@@ -7,15 +7,15 @@
 💻 &nbsp; I am passionate about Deep Learning and Computer Vision! <br>
 🌷 &nbsp; Lately, I have been dipping my toes in Android Development and Full Stack Web Development. <br>
 📙 &nbsp; I am an avid reader and a sporadic closet writer , always looking out for the perfect weather to sit down with a good book!
-<br>
+<br><br>
 
 ### Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyasinghal04&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
 
 ### Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal04&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<br><br>
 <!--
 ## Technologies and Tools
 <p>
