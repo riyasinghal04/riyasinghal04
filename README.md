@@ -1,5 +1,5 @@
 ## Hey There! I am Riya Singhal 👋
-#### 📘 Keen Learner &nbsp; |&nbsp; 🔍 Enthusiastic Explorer &nbsp; | &nbsp; 😜 Occasional Loony  <br>
+#### 📘 Keen Learner &nbsp; |&nbsp; 🔍 Enthusiastic Explorer &nbsp; | &nbsp; 😜 Occasional Loony  <br><br>
 
 <b>A little about me</b>:   
 😌 &nbsp; I am Riya Singhal, an undergraduate in Computer Engineering at NIT, Surat.   <br>
