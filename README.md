@@ -1,4 +1,4 @@
-### Hey There! I am Riya Singhal 👋
+## Hey There! I am Riya Singhal 👋
 
 
 <b>A little about me</b>:   
@@ -7,10 +7,10 @@
 :orange_book: &nbsp; I am an avid reader and a closet writer. -->
 
 
-## Github Stats 
+### Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyasinghal04&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Language Stats
+### Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal04&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -20,7 +20,7 @@
 </p>
 -->
 
-## How to reach me?  
+### How to reach me?  
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/riya-singhal/)  
 :pushpin: &nbsp; [Email](mailto:riyapsinghal@gmail.com)  
 <!--pushpin: &nbsp; [Resume]() 
