@@ -8,7 +8,7 @@
 
 
 ## Github Stats 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=riyasinghal04&repo=dev.to&show_icons=true&hide_border=true&theme=dark&private=true)](https://github.com/thepracticaldev/dev.to)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyasinghal04&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal04&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
