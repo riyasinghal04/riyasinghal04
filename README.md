@@ -4,8 +4,9 @@
 <b>A little about me</b>:   
 😌: &nbsp; I am Riya Singhal, an undergraduate in Computer Engineering at NIT, Surat.   <br>
 💭: &nbsp; With a can-do attitude and an inquisitive mind, I strive to expand the width of my knowledge and skills! <br>
-💻: &nbsp; I am passionate about Deep Learning and Computer Vision, but I have been dipping my toes lately in Android and Full Stack Web Development. <br>
-📙 &nbsp; I am an avid reader and a sporadic closet writer , always looking out for the perfect weather to sit down with a good book! -->
+💻: &nbsp; I am passionate about Deep Learning and Computer Vision!
+🌷: However, I have been dipping my toes lately in Android and Full Stack Web Development. <br>
+📙 &nbsp; I am an avid reader and a sporadic closet writer , always looking out for the perfect weather to sit down with a good book!
 <br>
 
 ### Github Stats 
