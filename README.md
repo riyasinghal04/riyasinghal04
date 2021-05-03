@@ -5,10 +5,11 @@
 :relaxed: &nbsp; I am Riya Singhal,an undergraduate in Computer Engineering at NIT, Surat.   
 <!--:computer: &nbsp; I am Inquisitive and always open to explore new technologies.
 :orange_book: &nbsp; I am an avid reader and a closet writer. -->
-
+<br>
 
 ### Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyasinghal04&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ### Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasinghal04&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
