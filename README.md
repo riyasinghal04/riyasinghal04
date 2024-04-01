@@ -3,10 +3,6 @@
 
 <b>A little about me</b>:   
 😌 &nbsp; I am Riya Singhal, a graduate at Carnegie Mellon University in MSAII program.   <br>
-💭 &nbsp; With a can-do attitude and an inquisitive mind, I strive to expand the width of my knowledge and skills! <br>
-💻 &nbsp; I am passionate about Deep Learning and Computer Vision! <br>
-🌷 &nbsp; Lately, I have been dipping my toes in Android Development and Full Stack Web Development. <br>
-📙 &nbsp; I am an avid reader and a sporadic closet writer , always looking out for the perfect weather to sit down with a good book!
 <br><br>
 
 ### Github Stats 
